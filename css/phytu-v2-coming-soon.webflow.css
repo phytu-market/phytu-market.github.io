@@ -1,0 +1,13 @@
+:root {
+  --white: white;
+  --black: black;
+}
+
+.heading {
+  height: auto;
+  color: #dfdfdf;
+  text-align: center;
+  background-color: #4e7b45;
+  margin-top: 0;
+  margin-bottom: 0;
+}
